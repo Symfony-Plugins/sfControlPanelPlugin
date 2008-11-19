@@ -1,0 +1,6 @@
+- Overview: show the view.yml files in the View elements
+- Overview: show the security.yml and filters.yml files in the Controller elements
+- Overview: make the anchor emulation IE compatible on the first click
+- Configuration: add form to edit the settings.yml 
+- Tasks: add plugin installation/deinstallation tasks
+- Tasks: add test tasks

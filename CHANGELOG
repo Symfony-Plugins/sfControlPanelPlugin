@@ -1,0 +1,22 @@
+= sfControlPanelPlugin changelog =
+
+== Trunk ==
+
+ * francois: Made the plugin compatible with output escaping
+
+== 0.9.1 beta ==
+
+r3219 - Fixed broken environment lists in overview
+r3218 - Removed notice when project contains no model file
+r3216 - Fixed IE style issues
+      - Made the anchor effect in overview tab work for IE as well... on second click
+r3212 - Fixed long files breaking the layout in IE (overview/code explorer tabs)
+        by using conditional stylesheets (requires symfony r3181)
+      - Added a view.yml to the custom generator theme so that data explorer 
+        gets rid of application stylesheet (requires symfony r3215)
+      - Removed .sf files that were appearing in the code explorer
+r3195 - Fixed typos in README file, added more precisions
+
+== 0.9.0 beta ==
+
+r3149 - Initial release
